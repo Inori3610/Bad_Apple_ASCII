@@ -1,0 +1,8 @@
+Install opencv to use cv2:
+ pip install opencv-python
+Install pillow:
+ pip install pillow
+
+then we are good to go
+!remember this only work on windows!
+
